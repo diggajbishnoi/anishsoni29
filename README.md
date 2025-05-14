@@ -17,10 +17,9 @@
 * 🔍 Currently diving deeper into **Data Structures, Algorithms**, and **System Design**
 * 🛠️ Available for **freelance** or collaboration opportunities
 * 🧠 Love talking about **Tech**, **Finance**, and **Travel**
-* 🌍 Sharing the world through my eyes on [depolarised](https://www.instagram.com/depolarised_/)
 * 🗂️ Explore my projects on [GitHub](https://github.com/anishsoni29?tab=repositories)
 * 📄 Here’s my [resume](https://www.anishsoni.in/resume_anish_soni.pdf) if you're curious!
-* 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
+* 📬 Reach out on [LinkedIn]([https://www.linkedin.com/in/anishsoni/](https://www.linkedin.com/in/diggaj-bishnoi-b84b6925a/))
 
 
 <br>
