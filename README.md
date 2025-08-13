@@ -17,7 +17,7 @@
 * 🛠️ Available for **freelance** or collaboration opportunities
 * 🧠 Love talking about **Tech**, **Finance**, and **Travel**
 * 🌍 Sharing the world through my eyes on [depolarised](https://www.instagram.com/depolarised_/)
-* 📬 Reach out on [LinkedIn]((https://www.linkedin.com/in/diggaj-bishnoi-b84b6925a/))
+* 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/diggaj-bishnoi-b84b6925a/)
 
 
 <br>
