@@ -1,10 +1,8 @@
-## Hey 👋, I'm Anish !
+## Hey 👋, I'm Diggaj Bishnoi !
 
-<a href='https://linkedin.com/in/anishsoni/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/anishsoni29'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/anishsoni'><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/diggaj-bishnoi-b84b6925a/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> 
 
-🔧 I’m a versatile developer with a knack for blending design, code, and data into impactful products. Whether it’s Full Stack Web Development, App Development (React Native), Data Analysis or Creative Design, I adapt fast and deliver with passion.
+🔧 I’m a versatile developer who is passionate about building intelligent systems that solve real-world problems. I have hands-on experience with Python, machine learning, and cloud APIs, and I’ve deployed ML applications, built automation bots, and integrated backend systems.
 <br/>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVzcXYyaDlqZzd5NmpzdThoNHljM3k2NXl1bWsyYTJmNW9teHJoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="360px"/>
@@ -14,13 +12,12 @@
 
 ### 🎒 About Me
 
-* 🔍 Currently diving deeper into **Data Structures, Algorithms**, and **System Design**
+* 🔍 Currently diving deeper into **Data Analysis**, and **Generative AI**.
+* 🎯  I love turning data into insights and finding creative ways to apply AI to real-world challenges.
 * 🛠️ Available for **freelance** or collaboration opportunities
 * 🧠 Love talking about **Tech**, **Finance**, and **Travel**
 * 🌍 Sharing the world through my eyes on [depolarised](https://www.instagram.com/depolarised_/)
-* 🗂️ Explore my projects on [GitHub](https://github.com/anishsoni29?tab=repositories)
-* 📄 Here’s my [resume](https://www.anishsoni.in/resume_anish_soni.pdf) if you're curious!
-* 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
+* 📬 Reach out on [LinkedIn]((https://www.linkedin.com/in/diggaj-bishnoi-b84b6925a/))
 
 
 <br>
@@ -52,16 +49,4 @@
 
 <br>
 
-### 📊 Github Stats
-
-[![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 <br>
-
-### 🛠️ My Projects
-<a href="https://github.com/anishsoni29/Face-Detection-Attendance-System" target="_blank"> <img alt="face-detection" src="https://blog.mantratec.com/Images/post-img/all_post_in_side_img/2022/Benefits-of-facial-recognition-attendance-system.png" height="68" align="left"> </a>
-<a href="https://github.com/anishsoni29/Data-Analysis/tree/main/Resume%20Screener" target="_blank"> <img alt="resume_scanner" src="https://github.com/anishsoni29/anishsoni29/blob/main/assets/resume_scanner.png"  height="68" align="left"> </a>
-<a href="https://github.com/anishsoni29/Major-Projects/tree/main/Credit%20Card%20Risk%20Assessment" target="_blank"> <img alt="credit_risk_assessment" src="https://github.com/anishsoni29/anishsoni29/blob/main/assets/credit_risk_assessment.png" height="55px" width="65px" align="left"> </a>
-<a href="https://github.com/anishsoni29/Major-Projects/tree/main/Algorithmic%20Trading%20using%20Python" target="_blank"> <img alt="arithematic_trading" src="https://github.com/anishsoni29/anishsoni29/blob/main/assets/python_trading.png" height="68" align="left"> </a>
