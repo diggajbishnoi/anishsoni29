@@ -46,7 +46,3 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" align="left" alt="Postman" height='42px'/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://camo.githubusercontent.com/642a86e237f50c880c0da224a33e72abb14d3ee449a4ed738ad4fc0919dc5d81/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d333330333926666f726d61743d706e6726636f6c6f723d303030303030" align="left" alt="aws" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
-
-<br>
