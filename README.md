@@ -18,7 +18,6 @@
 * 🧠 Love talking about **Tech**, **Finance**, and **Travel**
 * 🌍 Sharing the world through my eyes on [depolarised](https://www.instagram.com/depolarised_/)
 * 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/diggaj-bishnoi)
-* 
 
 <br>
 
